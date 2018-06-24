@@ -3,7 +3,14 @@ var icon = [ "fa fa-diamond","fa fa-diamond", "fa fa-paper-plane-o","fa fa-paper
               "fa fa-cube","fa fa-leaf","fa fa-leaf","fa fa-bicycle", "fa fa-bicycle",
               "fa fa-bomb","fa fa-bomb"];
 
+/*
+I will like to appeciate the following people/website. If not them, I will not be able to develop this game. 
+Yahya Elharony: https://www.youtube.com/watch?v=G8J13lmApkQ
+Ryan White
+https://www.w3schools.com/Jsref/met_win_alert.asp
 
+
+*/
 
 
 //select the cards
